@@ -25,3 +25,7 @@ c(ount)
 p(ostal code) rank
 
 exit
+
+./mngstd -i inputfile -c configfile
+
+configfile optional
